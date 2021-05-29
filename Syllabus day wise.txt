@@ -1,0 +1,43 @@
+Day1:
+    Class - Introduction
+    Getters and Setters - Introduction
+    Getters and setters
+    Adding functionality
+    Constructors - intro
+    Default Constructor
+    Usage of Constructors
+    Understanding Inheritance(no code)
+    Inheritance-1(Create all the classes)
+    Inheritance-2(Accessing the properties)
+    Inheritance-3(Default and parameterised constructor)
+    Inheritance-4(toString)
+    Inheritance-5(Over-ridding)
+
+    Exercise
+
+Day 2:
+    Composition
+    Composition - setting the workspace
+    Composition - working with composition
+    Composition - Adding functionality
+    Encapsulation
+    Polymorphism
+
+Day 3:
+    Interfaces
+    Abstract Class
+    Mulitple Inheritance using Interfaces
+    Inner classes
+    Types of nested classes
+    Local inner class
+    Anonymous object
+    Anonymous inner class
+    Advantages of inner class
+    Static inner class - 1
+    Static inner class - 2
+    final keyword
+    final keyword with method and class
+    packages
+    packages continues
+
+Day 3-2:

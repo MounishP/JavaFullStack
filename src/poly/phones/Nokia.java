@@ -1,0 +1,11 @@
+package poly.phones;
+
+import poly.Phone.Phone;
+
+public class Nokia extends Phone {
+
+    public Nokia(String model) {
+        super(model);
+    }
+
+}

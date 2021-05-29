@@ -1,0 +1,25 @@
+What is class?
+    It is a template or a blueprint of an Object. --> State and Behaviour
+
+What is Constructor?
+    Special method with no return type, it is called when the object of a class is created.
+
+POJO --> Plain old java object
+
+
+
+What is Composition?
+    IS -A relationship --> Inheritance
+    HAS - A relationship --> Composition
+
+
+    Laptop(class)
+        Screen - 14 --> simple component
+        Processor - name,model,specs --> complex component(class)
+        ram - ddr4
+        hhd - 2tb
+        graphics - name, series, size, specs --> complex comp(class)
+
+What is encapsulation?
+    Encapsulation wrapping or combining or binding the data into a single entitiy or unit.
+    Used to hide the data.

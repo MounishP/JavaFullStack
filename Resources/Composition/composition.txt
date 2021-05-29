@@ -1,0 +1,22 @@
+    private double screen;
+    private Processor processor;
+    private String ram;
+    private String hardDrive;
+    private GraphicsCard graphicsCard;
+    private String opticalDrive;
+    private String keyboard;
+
+
+private String brand;
+    private String series;
+    private int generation;
+    private int cores;
+    private int threads;
+    private String cacheMemory;
+    private String frequency;
+    private String minFrequency;
+    private String maxfrequency;
+
+private String brand;
+    private int series;
+    private String memory;

@@ -1,0 +1,49 @@
+Learn Java Server Pages from basics to advance
+
+Understand building web forms with JSP
+
+Decision making under Java
+
+Object-oriented programming concepts
+
+Flow control
+
+Method parameter and return type
+
+Use web template to make the web application incredible
+
+Core concept
+
+Array
+
+Collections debugging
+
+Generics
+
+Multi-threading
+
+Lambdas
+
+File Handling under Java
+
+Introduction to GIT
+
+Create-Deploy Servlets & Understand Servlet Lifecycle
+
+Forms under JSP and Servlets
+
+Develop Dynamic Web Applications
+
+JSTL core tags
+
+Learn MVC in JSP
+
+Image/File upload
+
+Web App with spring boot
+
+Add post functionality
+
+Restful microservice with database connectivity
+
+Connect with the database and perform CRUD operation
