@@ -13,6 +13,8 @@ public class Poly {
         Phone phone1 = new Poly().phone(2);
         System.out.println(phone1.getModel());
         phone1.features();
+
+
     }
 
     public Phone phone(int dialyDriver){
