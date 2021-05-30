@@ -31,14 +31,7 @@ Day 3:
     Types of nested classes
     Local inner class
     Anonymous object
-    Anonymous inner class
-    Advantages of inner class
     Static inner class - 1
     Static inner class - 2
     final keyword
     final keyword with method and class
-    packages
-    packages continues
-
-Day 3-2:
-    Will discuss later
