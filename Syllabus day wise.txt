@@ -24,14 +24,14 @@ Day 2:
     Polymorphism
 
 Day 3:
-    Interfaces
-    Abstract Class
-    Mulitple Inheritance using Interfaces
-    Inner classes
-    Types of nested classes
-    Local inner class
-    Anonymous object
-    Static inner class - 1
-    Static inner class - 2
+    Interfaces  == Phones
+    Abstract Class == Person,Veg,NonVeg
+    Multiple Inheritance using Interfaces == Person,Veg,NonVeg
+    Inner classes == Shop,Door
+    Types of nested classes == image
+    Local inner class == Shop,Door
+    Anonymous object == Shop,Door
+    Static element
+    Static inner class
     final keyword
     final keyword with method and class

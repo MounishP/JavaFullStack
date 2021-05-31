@@ -23,3 +23,7 @@ What is Composition?
 What is encapsulation?
     Encapsulation wrapping or combining or binding the data into a single entitiy or unit.
     Used to hide the data.
+
+What is Interface?
+    Interface is class which consists only of abstract methods.
+    Abstract methods --> methods which consists only definition not the body.
