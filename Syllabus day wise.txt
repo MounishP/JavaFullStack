@@ -35,3 +35,11 @@ Day 3:
     Static inner class
     final keyword
     final keyword with method and class
+
+Day 4:
+    Exception Handling
+        Try--catch
+        multiple catch
+        finally
+        throws
+        throw

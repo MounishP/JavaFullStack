@@ -27,3 +27,7 @@ What is encapsulation?
 What is Interface?
     Interface is class which consists only of abstract methods.
     Abstract methods --> methods which consists only definition not the body.
+
+Exception Handling
+
+    Object ---> Throwable ---> Exception ----> ArithematicException, RunTimeException
