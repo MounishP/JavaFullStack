@@ -34,3 +34,6 @@ Exception Handling
 
 What is Array?
     Array is a collection of same type of elements.
+
+What is Collection?
+    Collection is a framework which is used to store and process data.

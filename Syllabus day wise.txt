@@ -51,3 +51,34 @@ Day 5:
     Call by value
     Call by reference
     Issues with arrays
+
+Day 6:
+    Collections - intro
+    ArrayList
+    AutoBoxing
+    UnBoxing
+    ArrayList and Stack
+    Stack Methods
+
+Day 7:
+    LinkedList
+    LinkedList - operations
+    List interface
+    Iterators
+    Sorting and reversal of elements
+    CompareTo
+    Comparable interface
+
+    Set
+    Set Types
+    Custom sorting
+    Queue
+    Dequeue
+
+    Maps
+    Tree Maps
+    Equals and hashcode
+    Search under maps
+
+    Generics
+
