@@ -4,4 +4,5 @@ public interface Phone {
     void processor();
     void display();
     void battery();
+    default void check(){}
 }

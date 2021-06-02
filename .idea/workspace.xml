@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8efb3c-9aab-4da9-bcc7-e9728c40c191" name="Default Changelist" comment="Day3">
+    <list default="true" id="da8efb3c-9aab-4da9-bcc7-e9728c40c191" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Syllabus day wise.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Syllabus day wise.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFullStack/poly/main/Poly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFullStack/poly/main/Poly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesExample/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesExample/phone/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesExample/phones/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesExample/phones/Iphone.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,6 +40,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1t7xyfI1J2IwLZFJXCQaEcQZG6E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -44,6 +50,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="interfacesExample.phone" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,20 +68,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calc">
-    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calc" />
-      <module name="JavaFullStack" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Composition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="composition.main.Composition" />
+  <component name="RunManager" selected="Application.Methods">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.App" />
       <module name="JavaFullStack" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="composition.main.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulaion.main.Encapsulation" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exphand.App" />
       <module name="JavaFullStack" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="encapsulaion.main.*" />
+          <option name="PATTERN" value="exphand.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.main.Poly" />
+    <configuration name="Finall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exphand.Finall" />
       <module name="JavaFullStack" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.main.*" />
+          <option name="PATTERN" value="exphand.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,20 +108,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calc" />
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Methods" />
       <module name="JavaFullStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multicatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exphand.Multicatch" />
+      <module name="JavaFullStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exphand.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calc" />
-        <item itemvalue="Application.calc" />
-        <item itemvalue="Application.Poly" />
-        <item itemvalue="Application.Encapsulation" />
-        <item itemvalue="Application.Composition" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.Finall" />
+        <item itemvalue="Application.Multicatch" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +162,15 @@
       <workItem from="1622283337253" duration="90000" />
       <workItem from="1622310002965" duration="288000" />
       <workItem from="1622346611488" duration="45000" />
-      <workItem from="1622350496099" duration="2407000" />
+      <workItem from="1622350496099" duration="4117000" />
+      <workItem from="1622366827096" duration="4421000" />
+      <workItem from="1622387616884" duration="165000" />
+      <workItem from="1622440719144" duration="2406000" />
+      <workItem from="1622451481026" duration="6802000" />
+      <workItem from="1622523138061" duration="4678000" />
+      <workItem from="1622540059990" duration="946000" />
+      <workItem from="1622608239959" duration="474000" />
+      <workItem from="1622611609181" duration="3393000" />
     </task>
     <task id="LOCAL-00001" summary="checking">
       <created>1622310095638</created>
@@ -155,7 +186,42 @@
       <option name="project" value="LOCAL" />
       <updated>1622310127084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="show">
+      <created>1622355721811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622355721811</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inheritance Exercise">
+      <created>1622369993416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622369993417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inheritance Exercise">
+      <created>1622370031516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622370031516</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 3">
+      <created>1622460616492</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622460616492</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day 4">
+      <created>1622531044795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622531044795</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +242,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="checking" />
-    <option name="LAST_COMMIT_MESSAGE" value="checking" />
+    <MESSAGE value="show" />
+    <MESSAGE value="Inheritance Exercise" />
+    <MESSAGE value="Day 3" />
+    <MESSAGE value="Day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4" />
   </component>
 </project>

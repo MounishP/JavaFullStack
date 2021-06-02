@@ -43,3 +43,11 @@ Day 4:
         finally
         throws
         throw
+
+Day 5:
+    Arrays - intro
+    Arrays - initialization
+    For each
+    Call by value
+    Call by reference
+    Issues with arrays

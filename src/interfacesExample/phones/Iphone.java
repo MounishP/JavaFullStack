@@ -4,6 +4,8 @@ import interfacesExample.phone.Phone;
 
 public class Iphone implements Phone {
 
+    public void mounish(){}
+
     @Override
     public void processor() {
         System.out.println("A11");

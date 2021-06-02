@@ -31,3 +31,6 @@ What is Interface?
 Exception Handling
 
     Object ---> Throwable ---> Exception ----> ArithematicException, RunTimeException
+
+What is Array?
+    Array is a collection of same type of elements.
