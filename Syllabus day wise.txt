@@ -69,16 +69,21 @@ Day 7:
     CompareTo
     Comparable interface
 
+Day 8:
+    Generics
+
+Day 9:
     Set
     Set Types
     Custom sorting
     Queue
     Dequeue
 
+Day 10:
     Maps
     Tree Maps
     Equals and hashcode
     Search under maps
 
-    Generics
+
 

@@ -37,3 +37,13 @@ What is Array?
 
 What is Collection?
     Collection is a framework which is used to store and process data.
+
+Why Arraylist?
+    execution time is fast, memory taken is more
+Why LinkedList?
+    execution time is slow, memory taken is min
+
+When ArrayList?
+    searching is more
+When LinkedList?
+    operations are more
