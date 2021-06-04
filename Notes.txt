@@ -47,3 +47,9 @@ When ArrayList?
     searching is more
 When LinkedList?
     operations are more
+
+Comparable ----> one element
+Comparator ----> two element
+
+Queue --> Follows FIFO
+Deque --> Double ended queue

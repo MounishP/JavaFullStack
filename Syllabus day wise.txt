@@ -71,11 +71,9 @@ Day 7:
 
 Day 8:
     Generics
-
-Day 9:
     Set
     Set Types
-    Custom sorting
+    Custom sorting with Comparator
     Queue
     Dequeue
 

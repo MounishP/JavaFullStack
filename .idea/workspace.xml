@@ -66,13 +66,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Com">
-    <configuration name="Com" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compareTo.Com" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.App" />
       <module name="JavaFullStack" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="compareTo.*" />
+          <option name="PATTERN" value="queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,38 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compareTo.Comp" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deque.Demo" />
       <module name="JavaFullStack" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="compareTo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Li" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="listinterface.Li" />
-      <module name="JavaFullStack" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="listinterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Link" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.Link" />
-      <module name="JavaFullStack" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="deque.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,10 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Com" />
-        <item itemvalue="Application.Comp" />
-        <item itemvalue="Application.Link" />
-        <item itemvalue="Application.Li" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +131,9 @@
       <workItem from="1622691659684" duration="14000" />
       <workItem from="1622698226894" duration="4407000" />
       <workItem from="1622710153854" duration="86000" />
+      <workItem from="1622710280544" duration="468000" />
+      <workItem from="1622714481740" duration="2218000" />
+      <workItem from="1622784844972" duration="4086000" />
     </task>
     <task id="LOCAL-00001" summary="checking">
       <created>1622310095638</created>
@@ -223,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622632979259</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 7">
+      <created>1622710302889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622710302889</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +232,7 @@
     <MESSAGE value="Day 4" />
     <MESSAGE value="Day 5" />
     <MESSAGE value="Day 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6" />
+    <MESSAGE value="Day 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 7" />
   </component>
 </project>
