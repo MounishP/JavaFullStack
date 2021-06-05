@@ -53,3 +53,9 @@ Comparator ----> two element
 
 Queue --> Follows FIFO
 Deque --> Double ended queue
+
+
+How to implement multi-threading?
+    2 ways:
+        1. Thread class
+        2. Runnable interface

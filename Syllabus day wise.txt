@@ -67,21 +67,18 @@ Day 7:
     Iterators
     Sorting and reversal of elements
     CompareTo
-    Comparable interface
+    Comparable interface -- compareTo
 
 Day 8:
     Generics
     Set
     Set Types
-    Custom sorting with Comparator
+    Custom sorting with Comparator -- compare
     Queue
     Dequeue
 
-Day 10:
-    Maps
-    Tree Maps
-    Equals and hashcode
-    Search under maps
-
-
-
+Day 9:
+    Multi Threading
+    Multi Threading - Overview
+    Multi Threading - Extending thread
+    Multi Threading - Implementing
