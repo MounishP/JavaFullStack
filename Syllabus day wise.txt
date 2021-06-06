@@ -82,3 +82,10 @@ Day 9:
     Multi Threading - Overview
     Multi Threading - Extending thread
     Multi Threading - Implementing
+
+Day 10:
+    Multi Threading - Synchronization
+    Multi Threading - Synchronised method
+    Multi Threading - Synchronised block
+
+    Hibernate - Intro
